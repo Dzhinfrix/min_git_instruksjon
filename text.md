@@ -6,3 +6,4 @@
 * git merge brnach_name - объеденить ветки
 * git branch -d branch_name - удалить ветку
 * git add file_name - добавить измения перед сохранием
+* git init - старт программы
