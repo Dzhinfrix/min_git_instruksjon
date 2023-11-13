@@ -5,3 +5,4 @@
 * git checkout branch_name - перейти на новую ветку
 * git merge brnach_name - объеденить ветки
 * git branch -d branch_name - удалить ветку
+* git init - старт программы
