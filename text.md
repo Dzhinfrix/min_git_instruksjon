@@ -1,4 +1,5 @@
 # My Git istruction
+git - самая популярная система котроля версий
 * git commit -m "comment" - комманда создабщая сохранения
 * git branch - вывести все ветки
 * git branch branch_name - создать новую ветку
